@@ -1,0 +1,37 @@
+#font {
+    font-family:'Belanosima', sans-serif; 
+    color: darkslategrey;
+}
+
+.wrapper {
+    display: flex;
+    background-color: darkgray;
+}
+
+.pic1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.pic2 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.pic3 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
